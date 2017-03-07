@@ -78,3 +78,5 @@ The underlying technology under the hood will be Lisp.
 Unlike Matlab and C that store 2D arrays in memory column based or row based, Arielou uses diagonal based memory management which is fantastic when using the identity matrix.
 
 For efficiency, Arielou does not support multithreading. Rather is automates MultiDockering. Expenses be damned.
+
+Arielou is perfectly suited for AR, VR and IoT. Support is enabled at the primitives level.
