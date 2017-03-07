@@ -1,4 +1,4 @@
-# Arilou
+# Arielou
 The best programming language ever
 
 Language specification:
