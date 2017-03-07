@@ -80,3 +80,6 @@ Unlike Matlab and C that store 2D arrays in memory column based or row based, Ar
 For efficiency, Arielou does not support multithreading. Rather is automates MultiDockering. Expenses be damned.
 
 Arielou is perfectly suited for AR, VR and IoT. Support is enabled at the primitives level.
+
+Arielou adopts Lazy processing at the most fundamental level. Using all CAPS commands is required when the action is to be executed immediately.
+
