@@ -17,6 +17,8 @@ Variables and Classes must use both underscore and camelCase.
 
 Classes and code constructs must both be indented and surrounded by curly braces.
 
+Indentation must be with a tab, using spaces creates compilation errors.
+
 Curly braces must stick to the original GNU style, unless the GeoIP detected an Egyptian user, in which case Egyptian style must be used.
 
 All objects are first class variable types, except for second class objects.
