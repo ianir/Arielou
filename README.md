@@ -74,3 +74,5 @@ Casting operations are allowed and encouraged. To reduce the amount of duplicate
 The underlying technology under the hood will be Lisp.
 
 Unlike Matlab anc C that store 2D arrays in memory column based or row based, Arielou uses diagonal based memory management which is fantastic when using the identity matrix.
+
+For efficiency, Arielou does not support multithreading. Rather is automates MultiDockering. Expenses be damned.
