@@ -31,7 +31,7 @@ All lines must end with a semi colon.
 
 Subsequent, concatenated methods take German style annotation str.StripConcatSchlaffenGehen.
 
-All variable are global, unless declared a the top.
+All variable are global, unless declared at the top.
 
 Variables must be declared by the PleaseLét keyword.
 
