@@ -25,7 +25,7 @@ All objects are first class variable types, except for second class objects.
 
 Classes support inheritance, albeit with an inheritance tax.
 
-In order to reduce valuable resources, a nop penalty is applied between code lines.
+In order to reduce limited code line resources, a nop penalty is applied between code lines.
 
 In order to reduce line length, a nop penalty is applied every 30 characters.
 
@@ -33,7 +33,7 @@ All lines must end with a semi colon.
 
 Subsequent, concatenated methods take German style annotation str.StripConcatSchlaffenGehen.
 
-All variable are global, unless declared at the top.
+All variables are global, unless declared at the top.
 
 Variables must be declared by the PleaseLét keyword.
 
@@ -49,7 +49,7 @@ The language does not support pointers, but allows the use of pointels, which ar
 
 Preliminary release starts at version 3.0 and goes down to 2.7 .
 
-Arrays are zero based.
+Arrays are 2 based (indexing starts from 2).
 
 1D vectors are one based.
 
